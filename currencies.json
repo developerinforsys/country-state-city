@@ -6,18 +6,6 @@
         "position": "before"
     },
     {
-        "code": "ALL",
-        "symbol": "Lek",
-        "name": "Albanian Lek (ALL)",
-        "position": "before"
-    },
-    {
-        "code": "AOA",
-        "symbol": "Kz",
-        "name": "Angolan Kwanza (AOA)",
-        "position": "before"
-    },
-    {
         "code": "ARS",
         "symbol": "$",
         "name": "Argentine Peso (ARS)",
@@ -30,21 +18,9 @@
         "position": "before"
     },
     {
-        "code": "BAM",
-        "symbol": "KM",
-        "name": "Bosnia-Herzegovinian Convertible Mark (BAM)",
-        "position": "before"
-    },
-    {
-        "code": "BDT",
-        "symbol": "৳",
-        "name": "Bangladeshi Taka (BDT)",
-        "position": "before"
-    },
-    {
-        "code": "BGN",
-        "symbol": "лв.",
-        "name": "Bulgarian Lev (BGN)",
+        "code": "BHD",
+        "symbol": ".د.ب",
+        "name": "Bahraini Dinar (BHD)",
         "position": "before"
     },
     {
@@ -66,12 +42,6 @@
         "position": "before"
     },
     {
-        "code": "CLP",
-        "symbol": "$",
-        "name": "Chilean Peso (CLP)",
-        "position": "before"
-    },
-    {
         "code": "CNY",
         "symbol": "元",
         "name": "Chinese Yuan (CNY)",
@@ -88,6 +58,12 @@
         "symbol": "Kč",
         "name": "Czech Koruna (CZK)",
         "position": "before"
+    },
+    {
+        "code": "DJF",
+        "symbol": "Fdj",
+        "name": "Djibouti Franc (DJF)",
+        "position": "after"
     },
     {
         "code": "DKK",
@@ -126,22 +102,16 @@
         "position": "after"
     },
     {
-        "code": "GTQ",
-        "symbol": "Q",
-        "name": "Guatemalan Quetzal (GTQ)",
-        "position": "before"
-    },
-    {
         "code": "HKD",
         "symbol": "HK$",
         "name": "Hong Kong Dollar (HKD)",
         "position": "before"
     },
     {
-        "code": "HRK",
-        "symbol": "kn",
-        "name": "Croatian Kuna (HRK)",
-        "position": "before"
+        "code": "HUF",
+        "symbol": "Ft",
+        "name": "Hungarian Forint (HUF)",
+        "position": "after"
     },
     {
         "code": "HUF",
@@ -168,9 +138,15 @@
         "position": "before"
     },
     {
-        "code": "JMD",
-        "symbol": "J$",
-        "name": "Jamaican Dollar (JMD)",
+        "code": "IQD",
+        "symbol": "ع.د",
+        "name": "iraqi Dinar (IDQ)",
+        "position": "before"
+    },
+    {
+        "code": "JOD",
+        "symbol": "د.ا",
+        "name": "Jordanian Dinar (JOD)",
         "position": "before"
     },
     {
@@ -180,39 +156,27 @@
         "position": "before"
     },
     {
-        "code": "KES",
-        "symbol": "KSh",
-        "name": "Kenyan Shilling (KES)",
-        "position": "before"
-    },
-    {
-        "code": "KRW",
-        "symbol": "₩",
-        "name": "South Korean Won (KRW)",
-        "position": "before"
-    },
-    {
         "code": "KWD",
         "symbol": "د.ك",
         "name": "Kuwaiti Dinar (KWD)",
         "position": "before"
     },
     {
-        "code": "KZT",
-        "symbol": "₸",
-        "name": "Kazakhstani Tenge (KZT)",
+        "code": "LBP",
+        "symbol": ".ل.ل",
+        "name": "Lebanese Pound (LBP)",
+        "position": "before"
+    },
+    {
+        "code": "LYD",
+        "symbol": "ل.د",
+        "name": "Libyan Dinar (LYD)",
         "position": "before"
     },
     {
         "code": "MAD",
         "symbol": "MAD",
         "name": "Moroccan Dirham (MAD)",
-        "position": "before"
-    },
-    {
-        "code": "MKD",
-        "symbol": "ден",
-        "name": "Macedonian Denar (MKD)",
         "position": "before"
     },
     {
@@ -228,12 +192,6 @@
         "position": "before"
     },
     {
-        "code": "NGN",
-        "symbol": "₦",
-        "name": "Nigerian Naira (NGN)",
-        "position": "before"
-    },
-    {
         "code": "NOK",
         "symbol": "KR",
         "name": "Norwegian Krone (NOK)",
@@ -243,6 +201,12 @@
         "code": "NZD",
         "symbol": "NZD$",
         "name": "New Zealand Dollar (NZD)",
+        "position": "before"
+    },
+    {
+        "code": "OMR",
+        "symbol": "ر.ع.",
+        "name": "Omani Rial (OMR)",
         "position": "before"
     },
     {
@@ -258,12 +222,6 @@
         "position": "before"
     },
     {
-        "code": "PKR",
-        "symbol": "₨",
-        "name": "Pakistani Rupee (PKR)",
-        "position": "before"
-    },
-    {
         "code": "PLN",
         "symbol": "zł",
         "name": "Polish Złoty (PLN)",
@@ -273,18 +231,6 @@
         "code": "QAR",
         "symbol": "ر.ق",
         "name": "Qatari Riyal (QAR)",
-        "position": "before"
-    },
-    {
-        "code": "RON",
-        "symbol": "lei",
-        "name": "Romanian Leu (RON)",
-        "position": "before"
-    },
-    {
-        "code": "RSD",
-        "symbol": "РСД",
-        "name": "Serbian Dinar (RSD)",
         "position": "before"
     },
     {
@@ -300,12 +246,6 @@
         "position": "before"
     },
     {
-        "code": "SEK",
-        "symbol": "KR",
-        "name": "Swedish Krona (SEK)",
-        "position": "before"
-    },
-    {
         "code": "SGD",
         "symbol": "SGD$",
         "name": "Singapore Dollar (SGD)",
@@ -316,6 +256,18 @@
         "symbol": "gr",
         "name": "Silver",
         "position": "after"
+    },
+    {
+        "code": "SOS",
+        "symbol": "Sh.so.",
+        "name": "Somali Shilling (SOS)",
+        "position": "before"
+    },
+    {
+        "code": "SYP",
+        "symbol": "£S",
+        "name": " Syrian Pound (SYP)",
+        "position": "before"
     },
     {
         "code": "THB",
@@ -336,33 +288,21 @@
         "position": "before"
     },
     {
-        "code": "TWD",
-        "symbol": "TWD$",
-        "name": "Taiwan Dollar (TWD)",
-        "position": "before"
-    },
-    {
-        "code": "UAH",
-        "symbol": "₴",
-        "name": "Ukrainian Hryvnia (UAH)",
-        "position": "before"
-    },
-    {
         "code": "USD",
         "symbol": "$",
         "name": "United States Dollar (USD)",
         "position": "before"
     },
     {
-        "code": "UYU",
-        "symbol": "$U",
-        "name": "Uruguayan Peso (UYU)",
+        "code": "VUV",
+        "symbol": "VT",
+        "name": "Vanuatu Vatu (VUV)",
         "position": "before"
     },
     {
-        "code": "VND",
-        "symbol": "₫",
-        "name": "Vietnamese Dong (VND)",
+        "code": "YER",
+        "symbol": "﷼",
+        "name": "Yemeni Rial (YER)",
         "position": "before"
     },
     {
