@@ -96,12 +96,6 @@
         "position": "before"
     },
     {
-        "code": "XAU",
-        "symbol": "gr",
-        "name": "XAU",
-        "position": "after"
-    },
-    {
         "code": "HKD",
         "symbol": "HK$",
         "name": "Hong Kong Dollar (HKD)",
@@ -252,12 +246,6 @@
         "position": "before"
     },
     {
-        "code": "XAG",
-        "symbol": "gr",
-        "name": "XAG",
-        "position": "after"
-    },
-    {
         "code": "SOS",
         "symbol": "Sh.so.",
         "name": "Somali Shilling (SOS)",
@@ -298,6 +286,18 @@
         "symbol": "VT",
         "name": "Vanuatu Vatu (VUV)",
         "position": "before"
+    },
+    {
+        "code": "XAG",
+        "symbol": "gr",
+        "name": "Silver (XAG)",
+        "position": "after"
+    },
+    {
+        "code": "XAU",
+        "symbol": "gr",
+        "name": "Gold (XAU)",
+        "position": "after"
     },
     {
         "code": "YER",
