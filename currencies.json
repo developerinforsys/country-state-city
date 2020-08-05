@@ -96,9 +96,9 @@
         "position": "before"
     },
     {
-        "code": "GOLD",
+        "code": "XAU",
         "symbol": "gr",
-        "name": "Gold",
+        "name": "XAU",
         "position": "after"
     },
     {
@@ -252,9 +252,9 @@
         "position": "before"
     },
     {
-        "code": "SILVER",
+        "code": "XAG",
         "symbol": "gr",
-        "name": "Silver",
+        "name": "XAG",
         "position": "after"
     },
     {
