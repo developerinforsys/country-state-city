@@ -5,11 +5,6 @@
     "code": "AF"
   },
   {
-    "name": "Aland Islands",
-    "dial_code": "358",
-    "code": "AX"
-  },
-  {
     "name": "Albania",
     "dial_code": "355",
     "code": "AL"
@@ -20,7 +15,7 @@
     "code": "DZ"
   },
   {
-    "name": "AmericanSamoa",
+    "name": "American Samoa",
     "dial_code": "1684",
     "code": "AS"
   },
@@ -130,7 +125,7 @@
     "code": "BT"
   },
   {
-    "name": "Bolivia, Plurinational State of",
+    "name": "Bolivia",
     "dial_code": "591",
     "code": "BO"
   },
@@ -153,6 +148,11 @@
     "name": "British Indian Ocean Territory",
     "dial_code": "246",
     "code": "IO"
+  },
+  {
+    "name": "British Virgin Islands",
+    "dial_code": "1284",
+    "code": "VG"
   },
   {
     "name": "Brunei Darussalam",
@@ -185,13 +185,18 @@
     "code": "CM"
   },
   {
+    "name": "Canada",
+    "dial_code": "1",
+    "code": "CA"
+  },
+  {
     "name": "Cape Verde",
     "dial_code": "238",
     "code": "CV"
   },
   {
     "name": "Cayman Islands",
-    "dial_code": "345",
+    "dial_code": "1345",
     "code": "KY"
   },
   {
@@ -220,7 +225,7 @@
     "code": "CX"
   },
   {
-    "name": "Cocos (Keeling) Islands",
+    "name": "Cocos Islands",
     "dial_code": "61",
     "code": "CC"
   },
@@ -235,16 +240,6 @@
     "code": "KM"
   },
   {
-    "name": "Congo",
-    "dial_code": "242",
-    "code": "CG"
-  },
-  {
-    "name": "Congo, The Democratic Republic of the Congo",
-    "dial_code": "243",
-    "code": "CD"
-  },
-  {
     "name": "Cook Islands",
     "dial_code": "682",
     "code": "CK"
@@ -253,11 +248,6 @@
     "name": "Costa Rica",
     "dial_code": "506",
     "code": "CR"
-  },
-  {
-    "name": "Cote d'Ivoire",
-    "dial_code": "225",
-    "code": "CI"
   },
   {
     "name": "Croatia",
@@ -270,6 +260,11 @@
     "code": "CU"
   },
   {
+    "name": "Curacao",
+    "dial_code": "599",
+    "code": "CW"
+  },
+  {
     "name": "Cyprus",
     "dial_code": "357",
     "code": "CY"
@@ -278,6 +273,11 @@
     "name": "Czech Republic",
     "dial_code": "420",
     "code": "CZ"
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "dial_code": "243",
+    "code": "CD"
   },
   {
     "name": "Denmark",
@@ -296,8 +296,13 @@
   },
   {
     "name": "Dominican Republic",
-    "dial_code": "1849",
+    "dial_code": "1809",
     "code": "DO"
+  },
+  {
+    "name": "East Timor",
+    "dial_code": "670",
+    "code": "TL"
   },
   {
     "name": "Ecuador",
@@ -335,7 +340,7 @@
     "code": "ET"
   },
   {
-    "name": "Falkland Islands (Malvinas)",
+    "name": "Falkland Islands",
     "dial_code": "500",
     "code": "FK"
   },
@@ -415,11 +420,6 @@
     "code": "GD"
   },
   {
-    "name": "Guadeloupe",
-    "dial_code": "590",
-    "code": "GP"
-  },
-  {
     "name": "Guam",
     "dial_code": "1671",
     "code": "GU"
@@ -431,7 +431,7 @@
   },
   {
     "name": "Guernsey",
-    "dial_code": "44",
+    "dial_code": "1481",
     "code": "GG"
   },
   {
@@ -446,18 +446,13 @@
   },
   {
     "name": "Guyana",
-    "dial_code": "595",
+    "dial_code": "592",
     "code": "GY"
   },
   {
     "name": "Haiti",
     "dial_code": "509",
     "code": "HT"
-  },
-  {
-    "name": "Holy See (Vatican City State)",
-    "dial_code": "379",
-    "code": "VA"
   },
   {
     "name": "Honduras",
@@ -490,7 +485,7 @@
     "code": "ID"
   },
   {
-    "name": "Iran, Islamic Republic of Persian Gulf",
+    "name": "Iran",
     "dial_code": "98",
     "code": "IR"
   },
@@ -506,7 +501,7 @@
   },
   {
     "name": "Isle of Man",
-    "dial_code": "44",
+    "dial_code": "1624",
     "code": "IM"
   },
   {
@@ -520,6 +515,11 @@
     "code": "IT"
   },
   {
+    "name": "Ivory Coast",
+    "dial_code": "225",
+    "code": "CI"
+  },
+  {
     "name": "Jamaica",
     "dial_code": "1876",
     "code": "JM"
@@ -531,7 +531,7 @@
   },
   {
     "name": "Jersey",
-    "dial_code": "44",
+    "dial_code": "1534",
     "code": "JE"
   },
   {
@@ -541,7 +541,7 @@
   },
   {
     "name": "Kazakhstan",
-    "dial_code": "77",
+    "dial_code": "7",
     "code": "KZ"
   },
   {
@@ -554,15 +554,10 @@
     "dial_code": "686",
     "code": "KI"
   },
-  {
-    "name": "Korea, Democratic People's Republic of Korea",
-    "dial_code": "850",
-    "code": "KP"
-  },
-  {
-    "name": "Korea, Republic of South Korea",
-    "dial_code": "82",
-    "code": "KR"
+{
+    "name": Kosovo
+    "dial_code": "383",
+    "code": "XK"
   },
   {
     "name": "Kuwait",
@@ -600,7 +595,7 @@
     "code": "LR"
   },
   {
-    "name": "Libyan Arab Jamahiriya",
+    "name": "Libya",
     "dial_code": "218",
     "code": "LY"
   },
@@ -620,7 +615,7 @@
     "code": "LU"
   },
   {
-    "name": "Macao",
+    "name": "Macau",
     "dial_code": "853",
     "code": "MO"
   },
@@ -690,7 +685,7 @@
     "code": "MX"
   },
   {
-    "name": "Micronesia, Federated States of Micronesia",
+    "name": "Micronesia",
     "dial_code": "691",
     "code": "FM"
   },
@@ -790,9 +785,9 @@
     "code": "NU"
   },
   {
-    "name": "Norfolk Island",
-    "dial_code": "672",
-    "code": "NF"
+    "name": "North Korea",
+    "dial_code": "850",
+    "code": "KP"
   },
   {
     "name": "Northern Mariana Islands",
@@ -820,7 +815,7 @@
     "code": "PW"
   },
   {
-    "name": "Palestinian Territory, Occupied",
+    "name": "Palestine",
     "dial_code": "970",
     "code": "PS"
   },
@@ -851,7 +846,7 @@
   },
   {
     "name": "Pitcairn",
-    "dial_code": "872",
+    "dial_code": "64",
     "code": "PN"
   },
   {
@@ -866,13 +861,23 @@
   },
   {
     "name": "Puerto Rico",
-    "dial_code": "1939",
+    "dial_code": "1787",
     "code": "PR"
   },
   {
     "name": "Qatar",
     "dial_code": "974",
     "code": "QA"
+  },
+  { 
+    "name": "Republic of the Congo",
+    "dial_code": "242",
+    "code": "CG"
+  },
+  {
+    "name": "Reunion",
+    "dial_code": "262",
+    "code": "RE"
   },
   {
     "name": "Romania",
@@ -890,17 +895,12 @@
     "code": "RW"
   },
   {
-    "name": "Reunion",
-    "dial_code": "262",
-    "code": "RE"
-  },
-  {
     "name": "Saint Barthelemy",
     "dial_code": "590",
     "code": "BL"
   },
   {
-    "name": "Saint Helena, Ascension and Tristan Da Cunha",
+    "name": "Saint Helena",
     "dial_code": "290",
     "code": "SH"
   },
@@ -975,6 +975,11 @@
     "code": "SG"
   },
   {
+    "name": "Sint Maarten",
+    "dial_code": "1721",
+    "code": "SX"
+  },
+  {
     "name": "Slovakia",
     "dial_code": "421",
     "code": "SK"
@@ -1000,14 +1005,14 @@
     "code": "ZA"
   },
   {
+    "name": "South Korea",
+    "dial_code": "82",
+    "code": "KR"
+  },
+  {
     "name": "South Sudan",
     "dial_code": "211",
     "code": "SS"
-  },
-  {
-    "name": "South Georgia and the South Sandwich Islands",
-    "dial_code": "500",
-    "code": "GS"
   },
   {
     "name": "Spain",
@@ -1050,7 +1055,7 @@
     "code": "CH"
   },
   {
-    "name": "Syrian Arab Republic",
+    "name": "Syria",
     "dial_code": "963",
     "code": "SY"
   },
@@ -1065,7 +1070,7 @@
     "code": "TJ"
   },
   {
-    "name": "Tanzania, United Republic of Tanzania",
+    "name": "Tanzania",
     "dial_code": "255",
     "code": "TZ"
   },
@@ -1073,11 +1078,6 @@
     "name": "Thailand",
     "dial_code": "66",
     "code": "TH"
-  },
-  {
-    "name": "Timor-Leste",
-    "dial_code": "670",
-    "code": "TL"
   },
   {
     "name": "Togo",
@@ -1125,6 +1125,11 @@
     "code": "TV"
   },
   {
+    "name": "U.S. Virgin Islands",
+    "dial_code": "1340",
+    "code": "VI"
+  },
+  {
     "name": "Uganda",
     "dial_code": "256",
     "code": "UG"
@@ -1165,7 +1170,12 @@
     "code": "VU"
   },
   {
-    "name": "Venezuela, Bolivarian Republic of Venezuela",
+    "name": "Vatican",
+    "dial_code": "379",
+    "code": "VA"
+  },
+  {
+    "name": "Venezuela",
     "dial_code": "58",
     "code": "VE"
   },
@@ -1175,19 +1185,14 @@
     "code": "VN"
   },
   {
-    "name": "Virgin Islands, British",
-    "dial_code": "1284",
-    "code": "VG"
-  },
-  {
-    "name": "Virgin Islands, U.S.",
-    "dial_code": "1340",
-    "code": "VI"
-  },
-  {
     "name": "Wallis and Futuna",
     "dial_code": "681",
     "code": "WF"
+  },
+  {
+    "name": "Western Sahara",
+    "dial_code": "212",
+    "code": "EH"
   },
   {
     "name": "Yemen",
