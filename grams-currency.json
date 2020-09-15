@@ -1,0 +1,74 @@
+[
+    {
+        "code": "GVC",
+        "symbol": "gr",
+        "name": "Gram Virtual Coin (GVC)",
+        "position": "after"
+    },
+    {
+        "code": "XAU",
+        "symbol": "gr",
+        "name": "Gold (XAU)",
+        "position": "after"
+    },
+    {
+        "code": "XAG",
+        "symbol": "gr",
+        "name": "Silver (XAG)",
+        "position": "after"
+    },
+    {
+        "code": "AUD",
+        "symbol": "AUD$",
+        "name": "Australian Dollar (AUD)",
+        "position": "before"
+    },
+    {
+        "code": "CAD",
+        "symbol": "CDN$",
+        "name": "Canadian Dollar (CAD)",
+        "position": "before"
+    },
+    {
+        "code": "CNY",
+        "symbol": "元",
+        "name": "Chinese Yuan (CNY)",
+        "position": "before"
+    },
+    {
+        "code": "EUR",
+        "symbol": "€",
+        "name": "Euro (EUR)",
+        "position": "before"
+    },
+    {
+        "code": "GBP",
+        "symbol": "£",
+        "name": "British Pound (GBP)",
+        "position": "before"
+    },
+    {
+        "code": "IDR",
+        "symbol": "Rp",
+        "name": "Indonesian Rupiah (IDR)",
+        "position": "before"
+    },
+    {
+        "code": "NZD",
+        "symbol": "NZD$",
+        "name": "New Zealand Dollar (NZD)",
+        "position": "before"
+    },
+    {
+        "code": "SGD",
+        "symbol": "SGD$",
+        "name": "Singapore Dollar (SGD)",
+        "position": "before"
+    },
+    {
+        "code": "USD",
+        "symbol": "$",
+        "name": "United States Dollar (USD)",
+        "position": "before"
+    },
+]
