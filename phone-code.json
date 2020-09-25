@@ -62,7 +62,7 @@
   {
     "name": "Australia/Christmas Island/Cocos Islands",
     "dial_code": "61",
-    "code": "AU/CX/CC"
+    "code": "AU"
   },
   {
     "name": "Austria",
@@ -185,11 +185,6 @@
     "code": "CM"
   },
   {
-    "name": "Canada/United States",
-    "dial_code": "1",
-    "code": "CA/US"
-  },
-  {
     "name": "Cape Verde",
     "dial_code": "238",
     "code": "CV"
@@ -248,11 +243,6 @@
     "name": "Cuba",
     "dial_code": "53",
     "code": "CU"
-  },
-  {
-    "name": "Curacao/Netherlands Antilles",
-    "dial_code": "599",
-    "code": "CW/AN"
   },
   {
     "name": "Cyprus",
@@ -530,11 +520,6 @@
     "code": "JO"
   },
   {
-    "name": "Kazakhstan/Russia",
-    "dial_code": "7",
-    "code": "KZ/RU"
-  },
-  {
     "name": "Kenya",
     "dial_code": "254",
     "code": "KE"
@@ -665,11 +650,6 @@
     "code": "MU"
   },
   {
-    "name": "Mayotte/Reunion",
-    "dial_code": "262",
-    "code": "YT/RE"
-  },
-  {
     "name": "Mexico",
     "dial_code": "52",
     "code": "MX"
@@ -738,6 +718,11 @@
     "name": "Netherlands",
     "dial_code": "31",
     "code": "NL"
+  },
+  {
+    "name": "Netherlands Antilles/Curacao",
+    "dial_code": "599",
+    "code": "AN"
   },
   {
     "name": "New Caledonia",
@@ -855,19 +840,24 @@
     "code": "CG"
   },
   {
+    "name": "Reunion/Mayotte",
+    "dial_code": "262",
+    "code": "RE"
+  },
+  {
     "name": "Romania",
     "dial_code": "40",
     "code": "RO"
   },
   {
+    "name": "Russia/Kazakhstan",
+    "dial_code": "7",
+    "code": "RU"
+  },
+  {
     "name": "Rwanda",
     "dial_code": "250",
     "code": "RW"
-  },
-  {
-    "name": "Saint Barthelemy/Saint Martin",
-    "dial_code": "590",
-    "code": "BL/MF"
   },
   {
     "name": "Saint Helena",
@@ -883,6 +873,11 @@
     "name": "Saint Lucia",
     "dial_code": "1758",
     "code": "LC"
+  },
+  {
+    "name": "Saint Martin/Saint Barthelemy",
+    "dial_code": "590",
+    "code": "MF"
   },
   {
     "name": "Saint Pierre and Miquelon",
@@ -1108,6 +1103,11 @@
     "name": "United Kingdom",
     "dial_code": "44",
     "code": "GB"
+  },
+  {
+    "name": "United States/Canada",
+    "dial_code": "1",
+    "code": "US"
   },
   {
     "name": "Uruguay",
