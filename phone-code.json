@@ -60,7 +60,7 @@
     "code": "AW"
   },
   {
-    "name": "Australia/Christmas Island/Cocos Islands",
+    "name": "Australia",
     "dial_code": "61",
     "code": "AU"
   },
@@ -185,6 +185,11 @@
     "code": "CM"
   },
   {
+    "name": "Canada",
+    "dial_code": "1",
+    "code": "CA"
+  },
+  {
     "name": "Cape Verde",
     "dial_code": "238",
     "code": "CV"
@@ -215,6 +220,16 @@
     "code": "CN"
   },
   {
+    "name": "Christmas Island",
+    "dial_code": "61",
+    "code": "CX"
+  },
+  {
+    "name": "Cocos Islands",
+    "dial_code": "61",
+    "code": "CC"
+  },
+  {
     "name": "Colombia",
     "dial_code": "57",
     "code": "CO"
@@ -243,6 +258,11 @@
     "name": "Cuba",
     "dial_code": "53",
     "code": "CU"
+  },
+  {
+    "name": "Curacao",
+    "dial_code": "599",
+    "code": "CW"
   },
   {
     "name": "Cyprus",
@@ -520,6 +540,11 @@
     "code": "JO"
   },
   {
+    "name": "Kazakhstan",
+    "dial_code": "7",
+    "code": "KZ"
+  },
+  {
     "name": "Kenya",
     "dial_code": "254",
     "code": "KE"
@@ -650,6 +675,11 @@
     "code": "MU"
   },
   {
+    "name": "Mayotte",
+    "dial_code": "262",
+    "code": "YT"
+  },
+  {
     "name": "Mexico",
     "dial_code": "52",
     "code": "MX"
@@ -685,9 +715,9 @@
     "code": "MS"
   },
   {
-    "name": "Morocco/Western Sahara",
+    "name": "Morocco",
     "dial_code": "212",
-    "code": "MA/EH"
+    "code": "MA"
   },
   {
     "name": "Mozambique",
@@ -720,7 +750,7 @@
     "code": "NL"
   },
   {
-    "name": "Netherlands Antilles/Curacao",
+    "name": "Netherlands Antilles",
     "dial_code": "599",
     "code": "AN"
   },
@@ -730,9 +760,9 @@
     "code": "NC"
   },
   {
-    "name": "New Zealand/Pitcairn",
+    "name": "New Zealand",
     "dial_code": "64",
-    "code": "NZ/PN"
+    "code": "NZ"
   },
   {
     "name": "Nicaragua",
@@ -765,9 +795,9 @@
     "code": "MP"
   },
   {
-    "name": "Norway/Svalbard and Jan Mayen",
+    "name": "Norway",
     "dial_code": "47",
-    "code": "NO/SJ"
+    "code": "NO"
   },
   {
     "name": "Oman",
@@ -815,6 +845,11 @@
     "code": "PH"
   },
   {
+    "name": "Pitcairn",
+    "dial_code": "64",
+    "code": "PN"
+  },
+  {
     "name": "Poland",
     "dial_code": "48",
     "code": "PL"
@@ -840,7 +875,7 @@
     "code": "CG"
   },
   {
-    "name": "Reunion/Mayotte",
+    "name": "Reunion",
     "dial_code": "262",
     "code": "RE"
   },
@@ -850,7 +885,7 @@
     "code": "RO"
   },
   {
-    "name": "Russia/Kazakhstan",
+    "name": "Russia",
     "dial_code": "7",
     "code": "RU"
   },
@@ -858,6 +893,11 @@
     "name": "Rwanda",
     "dial_code": "250",
     "code": "RW"
+  },
+  {
+    "name": "Saint Barthelemy",
+    "dial_code": "590",
+    "code": "BL"
   },
   {
     "name": "Saint Helena",
@@ -875,7 +915,7 @@
     "code": "LC"
   },
   {
-    "name": "Saint Martin/Saint Barthelemy",
+    "name": "Saint Martin",
     "dial_code": "590",
     "code": "MF"
   },
@@ -995,6 +1035,11 @@
     "code": "SR"
   },
   {
+    "name": "Svalbard and Jan Mayen",
+    "dial_code": "47",
+    "code": "SJ"
+  },
+  {
     "name": "Swaziland",
     "dial_code": "268",
     "code": "SZ"
@@ -1105,7 +1150,7 @@
     "code": "GB"
   },
   {
-    "name": "United States/Canada",
+    "name": "United States",
     "dial_code": "1",
     "code": "US"
   },
@@ -1143,6 +1188,11 @@
     "name": "Wallis and Futuna",
     "dial_code": "681",
     "code": "WF"
+  },
+  {
+    "name": "Western Sahara",
+    "dial_code": "212",
+    "code": "EH"
   },
   {
     "name": "Yemen",
