@@ -1,74 +1,85 @@
-[
-    {
+[{
         "code": "GVC",
         "symbol": "gr",
         "name": "Gram Virtual Coin (GVC)",
-        "position": "after"
+        "position": "after",
+        "rounding": 2
     },
     {
         "code": "XAU",
         "symbol": "gr",
         "name": "Gold (XAU)",
-        "position": "after"
+        "position": "after",
+        "rounding": 4
     },
     {
         "code": "XAG",
         "symbol": "gr",
         "name": "Silver (XAG)",
-        "position": "after"
+        "position": "after",
+        "rounding": 2
     },
     {
         "code": "AUD",
         "symbol": "AUD$",
         "name": "Australian Dollar (AUD)",
-        "position": "before"
+        "position": "before",
+        "rounding": 2
     },
     {
         "code": "CAD",
         "symbol": "CDN$",
         "name": "Canadian Dollar (CAD)",
-        "position": "before"
+        "position": "before",
+        "rounding": 2
     },
     {
         "code": "CNY",
         "symbol": "元",
         "name": "Chinese Yuan (CNY)",
-        "position": "before"
+        "position": "before",
+        "rounding": 2
     },
     {
         "code": "EUR",
         "symbol": "€",
         "name": "Euro (EUR)",
-        "position": "before"
+        "position": "before",
+        "rounding": 2
     },
     {
         "code": "GBP",
         "symbol": "£",
         "name": "British Pound (GBP)",
-        "position": "before"
+        "position": "before",
+        "rounding": 2
     },
     {
         "code": "IDR",
         "symbol": "Rp",
         "name": "Indonesian Rupiah (IDR)",
-        "position": "before"
+        "position": "before",
+        "rounding": 2
     },
     {
         "code": "NZD",
         "symbol": "NZD$",
         "name": "New Zealand Dollar (NZD)",
-        "position": "before"
+        "position": "before",
+        "rounding": 2
     },
     {
         "code": "SGD",
         "symbol": "SGD$",
         "name": "Singapore Dollar (SGD)",
-        "position": "before"
+        "position": "before",
+        "rounding": 2
     },
     {
         "code": "USD",
         "symbol": "$",
         "name": "United States Dollar (USD)",
-        "position": "before"
+        "position": "before",
+        "rounding": 2
     }
 ]
