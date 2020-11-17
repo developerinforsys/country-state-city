@@ -2,84 +2,78 @@
         "code": "GVC",
         "symbol": "gr",
         "name": "Gram Virtual Coin (GVC)",
-        "position": "after",
-        "rounding": 2
+        "position": "after"
+    },
+    {
+        "code": "SVC",
+        "symbol": "gr",
+        "name": "Gram Virtual Coin (SVC)",
+        "position": "after"
     },
     {
         "code": "XAU",
         "symbol": "gr",
         "name": "Gold (XAU)",
-        "position": "after",
-        "rounding": 4
+        "position": "after"
     },
     {
         "code": "XAG",
         "symbol": "gr",
         "name": "Silver (XAG)",
-        "position": "after",
-        "rounding": 2
+        "position": "after"
     },
     {
         "code": "AUD",
         "symbol": "AUD$",
         "name": "Australian Dollar (AUD)",
-        "position": "before",
-        "rounding": 2
+        "position": "before"
     },
     {
         "code": "CAD",
         "symbol": "CDN$",
         "name": "Canadian Dollar (CAD)",
-        "position": "before",
-        "rounding": 2
+        "position": "before"
     },
     {
         "code": "CNY",
         "symbol": "元",
         "name": "Chinese Yuan (CNY)",
-        "position": "before",
-        "rounding": 2
+        "position": "before"
     },
     {
         "code": "EUR",
         "symbol": "€",
         "name": "Euro (EUR)",
-        "position": "before",
-        "rounding": 2
+        "position": "before"
     },
     {
         "code": "GBP",
         "symbol": "£",
         "name": "British Pound (GBP)",
-        "position": "before",
-        "rounding": 2
+        "position": "before"
     },
     {
         "code": "IDR",
         "symbol": "Rp",
         "name": "Indonesian Rupiah (IDR)",
-        "position": "before",
-        "rounding": 2
+        "position": "before"
     },
     {
         "code": "NZD",
         "symbol": "NZD$",
         "name": "New Zealand Dollar (NZD)",
-        "position": "before",
-        "rounding": 2
+        "position": "before"
     },
     {
         "code": "SGD",
         "symbol": "SGD$",
         "name": "Singapore Dollar (SGD)",
-        "position": "before",
-        "rounding": 2
+        "position": "before"
     },
     {
         "code": "USD",
         "symbol": "$",
         "name": "United States Dollar (USD)",
-        "position": "before",
-        "rounding": 2
+        "position": "before"
     }
 ]
