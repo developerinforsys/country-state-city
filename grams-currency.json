@@ -5,12 +5,6 @@
         "position": "after"
     },
     {
-        "code": "SVC",
-        "symbol": "gr",
-        "name": "Gram Virtual Coin (SVC)",
-        "position": "after"
-    },
-    {
         "code": "XAU",
         "symbol": "gr",
         "name": "Gold (XAU)",
