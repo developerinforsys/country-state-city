@@ -17,6 +17,12 @@
         "position": "after"
     },
     {
+        "code": "BTC",
+        "symbol": "₿",
+        "name": "Bitcoin (BTC)",
+        "position": "before"
+    },
+    {
         "code": "AUD",
         "symbol": "AUD$",
         "name": "Australian Dollar (AUD)",
